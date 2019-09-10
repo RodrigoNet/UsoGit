@@ -1,3 +1,6 @@
+# Version del curso
+Version 1.2.2
+
 # Cabeceras
 # Cab H1
 ## cab H2
