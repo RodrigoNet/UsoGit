@@ -10,3 +10,9 @@ Underline 1
 
 Underline 2
 ===========
+
+- letra *italica* 1.
+- letra _italica_ 2.
+- formato **bold** 1.
+- formato __bold__ 2.
+- formato ~~tachado~~ .
