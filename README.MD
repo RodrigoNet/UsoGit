@@ -48,3 +48,38 @@ codigo JSON
     "description": {"text": "...", "sensitive": false}
 }
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| demo1  | ape1     | doc 2234  |
+| demo2  | ape2     | doc 2234  |
+| demo3  | ape3     | doc 2234  |
+
+# Citas
+Referencia de una cita:
+> Esta es la cita.
+
+Otra texto bla bla:
+> Otra cita
+
+# Lineas divisoras
+Texto dividido guiones.
+
+---
+texto 2 dividido astericos.
+
+***
+texto 3 dividido guion bajo.
+
+___
+
+# Saltos de lineas
+Primer parrafo.
+
+Segundo parrafo.
+
+Tercer parrafo.
+- Lista1
+- Lista2
+- Lista3
