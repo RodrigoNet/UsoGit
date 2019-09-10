@@ -31,4 +31,20 @@ Underline 2
 - [Link a index](index.html)
 
 # Imagenes
-![Logo Github](https://image.freepik.com/free-icon/github-logo_318-52832.png)
+![Logo Github](https://github.com/adam-p/markdown-here/blob/master/src/common/images/icon48.png)
+
+
+# Code Snippets
+codigo JSON
+```JSON
+{
+    "title":"apples",
+    "count":[12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+},
+{
+    "title":"oranges",
+    "count":[17500, null],
+    "description": {"text": "...", "sensitive": false}
+}
+```
